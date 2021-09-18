@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1509116694 source:h:\profile\desktop\ics3ui\console platformer\main.cpp
+	"Header.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<ctime>
+	<vector>
+	<math.h>
+
+1509116550 source:h:\profile\desktop\ics3ui\console platformer\src\level.cpp
+	"Header.h"
+
+1507637680 h:\profile\desktop\ics3ui\console platformer\include\header.h
+	<stdio.h>
+	<tchar.h>
+	<vector>
+
